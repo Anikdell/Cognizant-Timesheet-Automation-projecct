@@ -2,7 +2,7 @@
 
 ## Team Members
 
-	1. Anik Mitra           (2270757)
+	1. Anik Mitra  
 
 Problem Statement : To Verify TimeSheet
 1.Login into Be.cognizant(For edge browser login not required)
