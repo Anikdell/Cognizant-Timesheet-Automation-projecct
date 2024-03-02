@@ -3,10 +3,6 @@
 ## Team Members
 
 	1. Anik Mitra           (2270757)
-	2. Viraj Dalvi          (2282042)
-	3. Vasanthan Selvakumar (2282160)
-	4. Ishwar Hase          (2282336)
-	5. Dileep Pasvan        (2270754)
 
 Problem Statement : To Verify TimeSheet
 1.Login into Be.cognizant(For edge browser login not required)
