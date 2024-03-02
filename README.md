@@ -1,4 +1,4 @@
-# Cognizant-Timesheet-Automation-projecct
+# Cognizant-Timesheet-Automation-project
 
 ## Team Members
 
